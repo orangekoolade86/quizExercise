@@ -1,0 +1,27 @@
+body {background-color: yellow}
+
+.title {padding-left: 50px}
+
+img {align-items: center;
+	padding-left: 80px;}
+
+
+
+.form-group > div {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+/*style for correct answers*/
+.correct {
+	color:green;
+}
+
+/*style for incorrect answers*/
+.incorrect {
+	color:red;
+}
